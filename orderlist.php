@@ -4,13 +4,7 @@
 <title>Basic MySQLi Commands</title>
 </head>
 <body>
-	<div>
-		<form method="POST" action="add.php">
-			<label>Firstname:</label><input type="text" name="firstname">
-			<label>Lastname:</label><input type="text" name="lastname">
-			<input type="submit" name="add">
-		</form>
-	</div>
+		
 	<br>
 	<div>
 		<table border="1">
